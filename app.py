@@ -7,9 +7,9 @@ USERS = {
     "testuser": "password123",
     "user01": "thichfarmgem",
     "haica":"thichfarmgem", # mồng 10 hằng tháng
-    "duyle":"123456789",  # mồng 10 hằng tháng
+    "duyle":"123456789chuadongtien",  # mồng 10 hằng tháng
     "phuchuadongtien":"phu123",
-    "hainguyen":"hainguyen987",  # mồng 10 hằng tháng
+    "hainguyen":"hainguyen987chuadongtien",  # mồng 10 hằng tháng
     "khoi":"khoi9876",  # mồng 1 hằng tháng
     "haufarmgem":"gem123", # ngày 25 hằng tháng
     "hau2":"gem123",  # ngày 25 hằng tháng
