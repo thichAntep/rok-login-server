@@ -13,7 +13,8 @@ USERS = {
     "khoi":"khoi9876",  # mồng 1 hằng tháng
     "haufarmgem":"gem123", # ngày 25 hằng tháng
     "hau2":"gem123",  # ngày 25 hằng tháng
-    "thien":"thien321"
+    "thien":"thien321",
+    "tu":"tu123"
 }
 
 # Biến lưu danh sách tài khoản đang online và thông tin thiết bị đang chiếm quyền
