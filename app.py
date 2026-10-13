@@ -6,15 +6,15 @@ USERS = {
     "admin": "123456",
     "testuser": "password123",
     "user01": "thichfarmgem",
-    "haica":"thichfarmgem", # mồng 10 hằng tháng
+    "haica":"thichfarmgemchuadongtien", # mồng 10 hằng tháng
     "duyle":"123456789chuadongtien",  # mồng 10 hằng tháng
     "phuchuadongtien":"phu123",
     "hainguyen":"hainguyen987chuadongtien",  # mồng 10 hằng tháng
-    "khoi":"khoi9876",  # mồng 1 hằng tháng
+    "khoi":"khoi9876chuadongtien",  # mồng 1 hằng tháng
     "haufarmgem":"gem123", # ngày 25 hằng tháng
     "hau2":"gem123",  # ngày 25 hằng tháng
-    "thien":"thien321",
-    "tu":"tu123"
+    "thien":"thien321chuadongtien",
+    "tu":"tu123chuadongtien"
 }
 
 # Biến lưu danh sách tài khoản đang online và thông tin thiết bị đang chiếm quyền
